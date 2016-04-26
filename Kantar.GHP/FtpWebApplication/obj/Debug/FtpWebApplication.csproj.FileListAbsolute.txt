@@ -1,0 +1,44 @@
+D:\TEST Projects\Kantar Using Class laibrary and Wcf service or Web Application for selp hosting\Kantar.GHP\Kantar.GHP\FtpWebApplication\bin\roslyn\csc.exe
+D:\TEST Projects\Kantar Using Class laibrary and Wcf service or Web Application for selp hosting\Kantar.GHP\Kantar.GHP\FtpWebApplication\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\TEST Projects\Kantar Using Class laibrary and Wcf service or Web Application for selp hosting\Kantar.GHP\Kantar.GHP\FtpWebApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\TEST Projects\Kantar Using Class laibrary and Wcf service or Web Application for selp hosting\Kantar.GHP\Kantar.GHP\FtpWebApplication\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\TEST Projects\Kantar Using Class laibrary and Wcf service or Web Application for selp hosting\Kantar.GHP\Kantar.GHP\FtpWebApplication\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\TEST Projects\Kantar Using Class laibrary and Wcf service or Web Application for selp hosting\Kantar.GHP\Kantar.GHP\FtpWebApplication\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\TEST Projects\Kantar Using Class laibrary and Wcf service or Web Application for selp hosting\Kantar.GHP\Kantar.GHP\FtpWebApplication\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\TEST Projects\Kantar Using Class laibrary and Wcf service or Web Application for selp hosting\Kantar.GHP\Kantar.GHP\FtpWebApplication\bin\roslyn\System.Collections.Immutable.dll
+D:\TEST Projects\Kantar Using Class laibrary and Wcf service or Web Application for selp hosting\Kantar.GHP\Kantar.GHP\FtpWebApplication\bin\roslyn\System.Reflection.Metadata.dll
+D:\TEST Projects\Kantar Using Class laibrary and Wcf service or Web Application for selp hosting\Kantar.GHP\Kantar.GHP\FtpWebApplication\bin\roslyn\vbc.exe
+D:\TEST Projects\Kantar Using Class laibrary and Wcf service or Web Application for selp hosting\Kantar.GHP\Kantar.GHP\FtpWebApplication\bin\roslyn\VBCSCompiler.exe
+D:\TEST Projects\Kantar Using Class laibrary and Wcf service or Web Application for selp hosting\Kantar.GHP\Kantar.GHP\FtpWebApplication\bin\roslyn\VBCSCompiler.exe.config
+D:\TEST Projects\Kantar Using Class laibrary and Wcf service or Web Application for selp hosting\Kantar.GHP\Kantar.GHP\FtpWebApplication\bin\FtpWebApplication.dll.config
+D:\TEST Projects\Kantar Using Class laibrary and Wcf service or Web Application for selp hosting\Kantar.GHP\Kantar.GHP\FtpWebApplication\bin\FtpWebApplication.dll
+D:\TEST Projects\Kantar Using Class laibrary and Wcf service or Web Application for selp hosting\Kantar.GHP\Kantar.GHP\FtpWebApplication\bin\FtpWebApplication.pdb
+D:\TEST Projects\Kantar Using Class laibrary and Wcf service or Web Application for selp hosting\Kantar.GHP\Kantar.GHP\FtpWebApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\TEST Projects\Kantar Using Class laibrary and Wcf service or Web Application for selp hosting\Kantar.GHP\Kantar.GHP\FtpWebApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\TEST Projects\Kantar Using Class laibrary and Wcf service or Web Application for selp hosting\Kantar.GHP\Kantar.GHP\FtpWebApplication\obj\Debug\FtpWebApplication.csprojResolveAssemblyReference.cache
+D:\TEST Projects\Kantar Using Class laibrary and Wcf service or Web Application for selp hosting\Kantar.GHP\Kantar.GHP\FtpWebApplication\obj\Debug\FtpWebApplication.dll
+D:\TEST Projects\Kantar Using Class laibrary and Wcf service or Web Application for selp hosting\Kantar.GHP\Kantar.GHP\FtpWebApplication\obj\Debug\FtpWebApplication.pdb
+D:\TEST Projects\Kantar Using Class laibrary and Wcf service or Web Application for selp hosting\Kantar.GHP\Kantar.GHP\FtpWebApplication\bin\Newtonsoft.Json.dll
+D:\TEST Projects\Kantar Using Class laibrary and Wcf service or Web Application for selp hosting\Kantar.GHP\Kantar.GHP\FtpWebApplication\bin\Newtonsoft.Json.xml
+D:\ProjectsTest\KantarWithFtpIsolationMicroserivce\Kantar.GHP\Kantar.GHP\FtpWebApplication\bin\roslyn\csc.exe
+D:\ProjectsTest\KantarWithFtpIsolationMicroserivce\Kantar.GHP\Kantar.GHP\FtpWebApplication\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\ProjectsTest\KantarWithFtpIsolationMicroserivce\Kantar.GHP\Kantar.GHP\FtpWebApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\ProjectsTest\KantarWithFtpIsolationMicroserivce\Kantar.GHP\Kantar.GHP\FtpWebApplication\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\ProjectsTest\KantarWithFtpIsolationMicroserivce\Kantar.GHP\Kantar.GHP\FtpWebApplication\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\ProjectsTest\KantarWithFtpIsolationMicroserivce\Kantar.GHP\Kantar.GHP\FtpWebApplication\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\ProjectsTest\KantarWithFtpIsolationMicroserivce\Kantar.GHP\Kantar.GHP\FtpWebApplication\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\ProjectsTest\KantarWithFtpIsolationMicroserivce\Kantar.GHP\Kantar.GHP\FtpWebApplication\bin\roslyn\System.Collections.Immutable.dll
+D:\ProjectsTest\KantarWithFtpIsolationMicroserivce\Kantar.GHP\Kantar.GHP\FtpWebApplication\bin\roslyn\System.Reflection.Metadata.dll
+D:\ProjectsTest\KantarWithFtpIsolationMicroserivce\Kantar.GHP\Kantar.GHP\FtpWebApplication\bin\roslyn\vbc.exe
+D:\ProjectsTest\KantarWithFtpIsolationMicroserivce\Kantar.GHP\Kantar.GHP\FtpWebApplication\bin\roslyn\VBCSCompiler.exe
+D:\ProjectsTest\KantarWithFtpIsolationMicroserivce\Kantar.GHP\Kantar.GHP\FtpWebApplication\bin\roslyn\VBCSCompiler.exe.config
+D:\ProjectsTest\KantarWithFtpIsolationMicroserivce\Kantar.GHP\Kantar.GHP\FtpWebApplication\bin\FtpWebApplication.dll.config
+D:\ProjectsTest\KantarWithFtpIsolationMicroserivce\Kantar.GHP\Kantar.GHP\FtpWebApplication\bin\FtpWebApplication.dll
+D:\ProjectsTest\KantarWithFtpIsolationMicroserivce\Kantar.GHP\Kantar.GHP\FtpWebApplication\bin\FtpWebApplication.pdb
+D:\ProjectsTest\KantarWithFtpIsolationMicroserivce\Kantar.GHP\Kantar.GHP\FtpWebApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\ProjectsTest\KantarWithFtpIsolationMicroserivce\Kantar.GHP\Kantar.GHP\FtpWebApplication\bin\Newtonsoft.Json.dll
+D:\ProjectsTest\KantarWithFtpIsolationMicroserivce\Kantar.GHP\Kantar.GHP\FtpWebApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\ProjectsTest\KantarWithFtpIsolationMicroserivce\Kantar.GHP\Kantar.GHP\FtpWebApplication\bin\Newtonsoft.Json.xml
+D:\ProjectsTest\KantarWithFtpIsolationMicroserivce\Kantar.GHP\Kantar.GHP\FtpWebApplication\obj\Debug\FtpWebApplication.csprojResolveAssemblyReference.cache
+D:\ProjectsTest\KantarWithFtpIsolationMicroserivce\Kantar.GHP\Kantar.GHP\FtpWebApplication\obj\Debug\FtpWebApplication.dll
+D:\ProjectsTest\KantarWithFtpIsolationMicroserivce\Kantar.GHP\Kantar.GHP\FtpWebApplication\obj\Debug\FtpWebApplication.pdb

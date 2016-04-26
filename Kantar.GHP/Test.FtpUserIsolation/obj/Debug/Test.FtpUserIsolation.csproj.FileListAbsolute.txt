@@ -1,0 +1,8 @@
+D:\ProjectsTest\KantarWithFtpIsolationMicroserivce\Kantar.GHP\Kantar.GHP\Test.FtpUserIsolation\bin\Debug\Test.FtpUserIsolation.dll
+D:\ProjectsTest\KantarWithFtpIsolationMicroserivce\Kantar.GHP\Kantar.GHP\Test.FtpUserIsolation\bin\Debug\Test.FtpUserIsolation.pdb
+D:\ProjectsTest\KantarWithFtpIsolationMicroserivce\Kantar.GHP\Kantar.GHP\Test.FtpUserIsolation\bin\Debug\FtpUserIsolation.dll
+D:\ProjectsTest\KantarWithFtpIsolationMicroserivce\Kantar.GHP\Kantar.GHP\Test.FtpUserIsolation\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\ProjectsTest\KantarWithFtpIsolationMicroserivce\Kantar.GHP\Kantar.GHP\Test.FtpUserIsolation\bin\Debug\FtpUserIsolation.pdb
+D:\ProjectsTest\KantarWithFtpIsolationMicroserivce\Kantar.GHP\Kantar.GHP\Test.FtpUserIsolation\obj\Debug\Test.FtpUserIsolation.csprojResolveAssemblyReference.cache
+D:\ProjectsTest\KantarWithFtpIsolationMicroserivce\Kantar.GHP\Kantar.GHP\Test.FtpUserIsolation\obj\Debug\Test.FtpUserIsolation.dll
+D:\ProjectsTest\KantarWithFtpIsolationMicroserivce\Kantar.GHP\Kantar.GHP\Test.FtpUserIsolation\obj\Debug\Test.FtpUserIsolation.pdb

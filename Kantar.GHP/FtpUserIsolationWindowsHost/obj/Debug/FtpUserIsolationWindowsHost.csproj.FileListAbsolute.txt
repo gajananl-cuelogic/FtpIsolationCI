@@ -1,0 +1,20 @@
+D:\TEST Projects\Kantar Using Class laibrary and Wcf service or Web Application for selp hosting\Kantar.GHP\Kantar.GHP\FtpUserIsolationWindowsHost\bin\Debug\FtpUserIsolationWindowsHost.exe.config
+D:\TEST Projects\Kantar Using Class laibrary and Wcf service or Web Application for selp hosting\Kantar.GHP\Kantar.GHP\FtpUserIsolationWindowsHost\bin\Debug\FtpUserIsolationWindowsHost.exe
+D:\TEST Projects\Kantar Using Class laibrary and Wcf service or Web Application for selp hosting\Kantar.GHP\Kantar.GHP\FtpUserIsolationWindowsHost\bin\Debug\FtpUserIsolationWindowsHost.pdb
+D:\TEST Projects\Kantar Using Class laibrary and Wcf service or Web Application for selp hosting\Kantar.GHP\Kantar.GHP\FtpUserIsolationWindowsHost\bin\Debug\FtpUserIsolation.dll
+D:\TEST Projects\Kantar Using Class laibrary and Wcf service or Web Application for selp hosting\Kantar.GHP\Kantar.GHP\FtpUserIsolationWindowsHost\bin\Debug\FtpUserIsolation.pdb
+D:\TEST Projects\Kantar Using Class laibrary and Wcf service or Web Application for selp hosting\Kantar.GHP\Kantar.GHP\FtpUserIsolationWindowsHost\obj\Debug\FtpUserIsolationWindowsHost.csprojResolveAssemblyReference.cache
+D:\TEST Projects\Kantar Using Class laibrary and Wcf service or Web Application for selp hosting\Kantar.GHP\Kantar.GHP\FtpUserIsolationWindowsHost\obj\Debug\FtpUserIsolationWindowsHost.ProjectInstaller.resources
+D:\TEST Projects\Kantar Using Class laibrary and Wcf service or Web Application for selp hosting\Kantar.GHP\Kantar.GHP\FtpUserIsolationWindowsHost\obj\Debug\FtpUserIsolationWindowsHost.csproj.GenerateResource.Cache
+D:\TEST Projects\Kantar Using Class laibrary and Wcf service or Web Application for selp hosting\Kantar.GHP\Kantar.GHP\FtpUserIsolationWindowsHost\obj\Debug\FtpUserIsolationWindowsHost.exe
+D:\TEST Projects\Kantar Using Class laibrary and Wcf service or Web Application for selp hosting\Kantar.GHP\Kantar.GHP\FtpUserIsolationWindowsHost\obj\Debug\FtpUserIsolationWindowsHost.pdb
+D:\ProjectsTest\KantarWithFtpIsolationMicroserivce\Kantar.GHP\Kantar.GHP\FtpUserIsolationWindowsHost\bin\Debug\FtpUserIsolationWindowsHost.exe.config
+D:\ProjectsTest\KantarWithFtpIsolationMicroserivce\Kantar.GHP\Kantar.GHP\FtpUserIsolationWindowsHost\bin\Debug\FtpUserIsolationWindowsHost.exe
+D:\ProjectsTest\KantarWithFtpIsolationMicroserivce\Kantar.GHP\Kantar.GHP\FtpUserIsolationWindowsHost\bin\Debug\FtpUserIsolationWindowsHost.pdb
+D:\ProjectsTest\KantarWithFtpIsolationMicroserivce\Kantar.GHP\Kantar.GHP\FtpUserIsolationWindowsHost\bin\Debug\FtpUserIsolation.dll
+D:\ProjectsTest\KantarWithFtpIsolationMicroserivce\Kantar.GHP\Kantar.GHP\FtpUserIsolationWindowsHost\bin\Debug\FtpUserIsolation.pdb
+D:\ProjectsTest\KantarWithFtpIsolationMicroserivce\Kantar.GHP\Kantar.GHP\FtpUserIsolationWindowsHost\obj\Debug\FtpUserIsolationWindowsHost.csprojResolveAssemblyReference.cache
+D:\ProjectsTest\KantarWithFtpIsolationMicroserivce\Kantar.GHP\Kantar.GHP\FtpUserIsolationWindowsHost\obj\Debug\FtpUserIsolationWindowsHost.ProjectInstaller.resources
+D:\ProjectsTest\KantarWithFtpIsolationMicroserivce\Kantar.GHP\Kantar.GHP\FtpUserIsolationWindowsHost\obj\Debug\FtpUserIsolationWindowsHost.csproj.GenerateResource.Cache
+D:\ProjectsTest\KantarWithFtpIsolationMicroserivce\Kantar.GHP\Kantar.GHP\FtpUserIsolationWindowsHost\obj\Debug\FtpUserIsolationWindowsHost.exe
+D:\ProjectsTest\KantarWithFtpIsolationMicroserivce\Kantar.GHP\Kantar.GHP\FtpUserIsolationWindowsHost\obj\Debug\FtpUserIsolationWindowsHost.pdb

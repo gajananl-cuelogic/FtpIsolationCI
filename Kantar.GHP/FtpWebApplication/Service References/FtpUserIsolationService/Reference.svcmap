@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="d123968e-e4e2-4ca9-ae61-158d6b9beb4e" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:8181/" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="item3.xsd" MetadataType="Schema" ID="ad1eb932-4dbd-452b-ae72-6d4a34235788" SourceId="1" SourceUrl="http://192.168.10.218:8181/?xsd=xsd2" />
+    <MetadataFile FileName="item31.xsd" MetadataType="Schema" ID="47a07aa3-5533-4c3f-b5ec-e855774dda3c" SourceId="1" SourceUrl="http://192.168.10.218:8181/?xsd=xsd0" />
+    <MetadataFile FileName="item32.xsd" MetadataType="Schema" ID="dab7730c-4f99-4bd1-b7d3-65fddd0bea21" SourceId="1" SourceUrl="http://192.168.10.218:8181/?xsd=xsd1" />
+    <MetadataFile FileName="FtpUserIsolationService1.wsdl" MetadataType="Wsdl" ID="c8314860-4638-4490-a43f-14778b291622" SourceId="1" SourceUrl="http://192.168.10.218:8181/?wsdl" />
+    <MetadataFile FileName="item1.disco" MetadataType="Disco" ID="56599502-69a1-40ed-a46e-af543a2c5172" SourceId="1" SourceUrl="http://192.168.10.218:8181/?disco" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>
