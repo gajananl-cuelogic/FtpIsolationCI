@@ -19,3 +19,10 @@ D:\ProjectsTest\KantarWithFtpIsolationMicroserivce\Kantar.GHP\Kantar.GHP\FtpUser
 D:\ProjectsTest\KantarWithFtpIsolationMicroserivce\Kantar.GHP\Kantar.GHP\FtpUserIsolationServiceHost\obj\Debug\FtpUserIsolationServiceHost.csprojResolveAssemblyReference.cache
 D:\ProjectsTest\KantarWithFtpIsolationMicroserivce\Kantar.GHP\Kantar.GHP\FtpUserIsolationServiceHost\obj\Debug\FtpUserIsolationServiceHost.exe
 D:\ProjectsTest\KantarWithFtpIsolationMicroserivce\Kantar.GHP\Kantar.GHP\FtpUserIsolationServiceHost\obj\Debug\FtpUserIsolationServiceHost.pdb
+D:\ProjectsGit\FtpIsolationCI\FtpIsolationCI\Kantar.GHP\FtpUserIsolationServiceHost\bin\Debug\FtpUserIsolationServiceHost.exe
+D:\ProjectsGit\FtpIsolationCI\FtpIsolationCI\Kantar.GHP\FtpUserIsolationServiceHost\bin\Debug\FtpUserIsolationServiceHost.pdb
+D:\ProjectsGit\FtpIsolationCI\FtpIsolationCI\Kantar.GHP\FtpUserIsolationServiceHost\bin\Debug\FtpUserIsolation.dll
+D:\ProjectsGit\FtpIsolationCI\FtpIsolationCI\Kantar.GHP\FtpUserIsolationServiceHost\bin\Debug\FtpUserIsolation.pdb
+D:\ProjectsGit\FtpIsolationCI\FtpIsolationCI\Kantar.GHP\FtpUserIsolationServiceHost\obj\Debug\FtpUserIsolationServiceHost.csprojResolveAssemblyReference.cache
+D:\ProjectsGit\FtpIsolationCI\FtpIsolationCI\Kantar.GHP\FtpUserIsolationServiceHost\obj\Debug\FtpUserIsolationServiceHost.exe
+D:\ProjectsGit\FtpIsolationCI\FtpIsolationCI\Kantar.GHP\FtpUserIsolationServiceHost\obj\Debug\FtpUserIsolationServiceHost.pdb
